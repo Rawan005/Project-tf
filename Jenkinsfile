@@ -38,7 +38,7 @@ spec:
     OWNER = "tau-team"
     PROJECT_NAME = 'web-server'
     AWS_PROFILE="kh-labs"
-    TF_NAMESPACE="rawan"
+    TF_NAMESPACE="tau"
   }
    stages {
       stage("init") {
